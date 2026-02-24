@@ -12,8 +12,6 @@ Strong backend foundation in C# and .NET combined with practical frontend implem
 
 Currently seeking a Junior Full-Stack Developer position in Montréal.
 
-Currently seeking a Junior .NET Developer position in Montréal.
-
 ---
 
 ## Contact
