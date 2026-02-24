@@ -7,8 +7,8 @@ Montréal, QC
 
 ## Profile
 
-Full-stack developer focused on building structured, production-ready web applications.  
-Strong backend foundation in C# and .NET combined with practical frontend implementation using modern JavaScript.
+Full-stack developer building structured, scalable web applications using modern JavaScript ecosystems.  
+Focus on clean architecture, type safety, API design, and maintainable frontend systems.
 
 Currently seeking a Junior Full-Stack Developer position in Montréal.
 
