@@ -19,4 +19,5 @@ Currently seeking a Junior .NET Developer position in Montréal.
 ## Contact
 
 GitHub: https://github.com/RedMoooo
+
 Email: a.sghaier70@gmail.com
