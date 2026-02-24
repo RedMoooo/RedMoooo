@@ -1,5 +1,5 @@
 # Mohamed Amine Sghaier  
-Full Stack  Developer –  .NET / Web  
+Full-Stack Developer – React / TypeScript / Node.js  
 
 Montréal, QC  
 
