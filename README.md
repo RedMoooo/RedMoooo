@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mohamed Amine Sghaier  
+Full Stack  Developer –  .NET / Web  
 
-<!--
-**RedMoooo/RedMoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Montréal, QC  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
+
+Full-stack developer focused on building structured, production-ready web applications.  
+Strong backend foundation in C# and .NET combined with practical frontend implementation using modern JavaScript.
+
+Currently seeking a Junior Full-Stack Developer position in Montréal.
+
+Currently seeking a Junior .NET Developer position in Montréal.
+
+---
+
+## Contact
+
+GitHub: https://github.com/RedMoooo
+Email: a.sghaier70@gmail.com
