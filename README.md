@@ -10,7 +10,6 @@ Montréal, QC
 Full-stack developer building structured, scalable web applications using modern JavaScript ecosystems.  
 Focus on clean architecture, type safety, API design, and maintainable frontend systems.
 
-Currently seeking a Junior Full-Stack Developer position in Montréal.
 
 ---
 
