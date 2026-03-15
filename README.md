@@ -16,5 +16,7 @@ Focus on clean architecture, type safety, API design, and maintainable frontend 
 ## Contact
 
 GitHub: https://github.com/RedMoooo
+
 Linkedin: https://www.linkedin.com/in/mohamedaminesghaier/
+
 Email: a.sghaier70@gmail.com
